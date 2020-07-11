@@ -1,0 +1,110 @@
+{
+    "menu": [
+        {
+            "kategori": "ventela",
+            "nama": "Public Low (Yellow)",
+            "deskripsi": "Menggunakan material canvas 12oz berkualitas baik, cukup lembut, dan memiliki daya tahan yang kuat sehingga cocok untuk digunakan sehari-hari.",
+            "harga": 275000,
+            "gambar": "public-yellow.jpg"
+        },
+        {
+            "kategori": "ventela",
+            "nama": "Public Low (Green)",
+            "deskripsi": "Teknologi Ultralite Foam membuat insole kami menjadi terasa empuk dan nyaman  sehingga kaki menjadi tidak mudah pegal.",
+            "harga": 275000,
+            "gambar": "public-green.jpg"
+        },
+        {
+            "kategori": "ventela",
+            "nama": "Public Low (Oreo)",
+            "deskripsi": "Stitching (Jahitan) yang rapih menjadikan sepatu memiliki bentuk yang bagus, kokoh, nyaman, dan tahan lama.",
+            "harga": 275000,
+            "gambar": "public-oreo.jpg"
+        },
+        {
+            "kategori": "ventela",
+            "nama": "Back To 70's Natural Gum",
+            "deskripsi": "Dengan menggunakan gum sole membuat tampilan sepatu ini semakin gahar nan aesthetic .",
+            "harga": 250000,
+            "gambar": "naturalgum.jpg"
+        },
+        {
+            "kategori": "ventela",
+            "nama": "Basic Black",
+            "deskripsi": "Desain full black yang terdapat pada artikel basic membuat tampilan sepatu terlihat sederhana tetapi tetap sangar, seri ini memiliki harga yang cukup ekonomis.",
+            "harga": 200000,
+            "gambar": "basic-black.jpg"
+        },
+        {
+            "kategori": "campuss",
+            "nama": "Semesta Black Natural",
+            "deskripsi": "ini campuss bukan compass.",
+            "harga": 250000,
+            "gambar": "campuss.jpg"
+        },
+        {
+            "kategori": "adidas",
+            "nama": "Questar Ride Tosca Gum",
+            "deskripsi": "ini sepatu adidas bukan adinda.",
+            "harga": 325000,
+            "gambar": "toscagum.jpg"
+        },
+        {
+            "kategori": "adidas",
+            "nama": "Questar Ride Triple White",
+            "deskripsi": "berani kotor itu baik.",
+            "harga": 325000,
+            "gambar": "allwhite.jpg"
+        },
+        {
+            "kategori": "nike",
+            "nama": "Tanjun Classic All Black",
+            "deskripsi": "just do eat.",
+            "harga": 300000,
+            "gambar": "nikeallblack.jpg"
+        },
+        {
+            "kategori": "ventela",
+            "nama": "Public Low (Maroon)",
+            "deskripsi": "bukan sepatu vans.",
+            "harga": 275000,
+            "gambar": "public-maroon.jpg"
+        },
+        {
+            "kategori": "nike",
+            "nama": "Tanjun Floral White List Gold",
+            "deskripsi": "nike turun tangga.",
+            "harga": 300000,
+            "gambar": "listgold.jpg"
+        },
+        {
+            "kategori": "nike",
+            "nama": "Tanjun Floral Peach List Silver",
+            "deskripsi": "nike-nike ke puncak gunung.",
+            "harga": 300000,
+            "gambar": "listsilver.jpg"
+        },
+        {
+            "kategori": "nike",
+            "nama": "Tanjun White Multicolor",
+            "deskripsi": "nike-nike ke puncak gunung.",
+            "harga": 300000,
+            "gambar": "multicolor.jpg"
+        },
+        {
+            "kategori": "saba",
+            "nama": "Denim Light Grey",
+            "deskripsi": "dari saba sampai merauke.",
+            "harga": 250000,
+            "gambar": "babyblue.jpg"
+        },
+        {
+            "kategori": "saba",
+            "nama": "Leather Tan Brown",
+            "deskripsi": "gausah kebanyakan saba-sabi cus beli....",
+            "harga": 250000,
+            "gambar": "brown.jpg"
+        }
+
+    ]
+}
